@@ -1,2 +1,5 @@
 # hello-world
-To test tings...
+
+Hi!
+
+I'm a Hungarian idiot!
